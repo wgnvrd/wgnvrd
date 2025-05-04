@@ -1,8 +1,8 @@
-## Isabelle (Izzy) Wagenvoord 🙋🏻‍♀️
+## Izzy Wagenvoord 🙋🏻‍♀️
 
-I'm senior at Colorado College studying computer science and minoring in mathematics. This summer, I am working as an undergraduate research assistant at the [MIDI Lab](https://www.midilab.org/). 
+I'm senior at Colorado College studying computer science and minoring in mathematics. Last summer, I worked as an undergraduate research assistant at the [MIDI Lab](https://www.midilab.org/), and last semester I studied Chinese, political science and economics at Donghua University in Shanghai, China. 
 
-I enjoy singing, doing makeup, thrifting, listening to music, and coding! Next semester, I will study Chinese, political science and economics at Donghua University in Shanghai, China.
+I enjoy singing, doing makeup, thrifting, listening to music, and coding! 
 <!--
 **wgnvrd/wgnvrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
